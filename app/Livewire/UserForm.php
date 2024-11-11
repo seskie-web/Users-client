@@ -51,12 +51,6 @@ class UserForm extends Component
     }
 
 
-    // public function updatedCellphone()
-    // {
-    //     $this->dispatch('tel-re-init');
-    // }
-
-
     public function render()
     {
         return view('livewire.user-form');

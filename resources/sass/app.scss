@@ -18,5 +18,15 @@ $green : '#008000' !default;
 }
 
 .iti {
-    width: 100%; /* Make the flag dropdown match the width of the input */
+    width: 100%;
+}
+
+body {
+    background-color: #f7f7f7;
+}
+
+.table-responsive {
+    max-height: 400px; 
+    overflow-y: auto;
+    display: block;
 }

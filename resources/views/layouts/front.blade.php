@@ -23,17 +23,7 @@
         </div>
 
         @livewireScripts
-
-        {{-- <!-- jQuery  -->
-        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-
-        <!-- Include the intl-tel-input JS -->
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js"></script>
-
-        <!-- Include the utils.js for formatting and validation -->
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/utils.js"></script> --}}
         @stack('scripts')
-        
-       
+    
     </body>
 </html>
