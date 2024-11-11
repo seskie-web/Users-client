@@ -28,6 +28,6 @@ To setup the project simply follow steps below:
 - Run command: npm install to install node modules
 - Set permissions on the project to 755 or 777 since it's a local project, for detailed instructions please refer to: https://www.hostinger.com/tutorials/how-to-install-laravel-on-ubuntu
 - Run command: php artisan migrate to run the database migrations, the migration command will create some default tables needed by laravel to run properly, the database migration files can be found on appname/database/migrations/
-- Run command: php artisan serve to start the client server or setup apache vhost
+- Run command: php artisan serve to start the client server or setup apache vhost e.g https://phoenixnap.com/kb/how-to-set-up-apache-virtual-hosts-ubuntu
 
 
