@@ -1,0 +1,22 @@
+@import 'bootstrap/scss/bootstrap';
+
+$red : '#FF0000' !default;
+$green : '#008000' !default;
+
+.error {
+    color: $red;
+    font-size: 13px;
+}
+
+.success {
+    color: $green;
+    font-size: 13px;
+}
+
+.title-heading {
+    font-size: 14px;
+}
+
+.iti {
+    width: 100%; /* Make the flag dropdown match the width of the input */
+}
