@@ -1,9 +1,9 @@
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-Technologies used: Laravel and Livewire
+<strong>Technologies used: Laravel and Livewire</strong>
 
-Why use Laravel
+<strong>Why use Laravel</strong>
 - Laravel is a popular PHP framework that is widely used for web application development, including building APIs.
 - Elegant Syntax: Laravel is known for its clean, expressive, and readable syntax, which makes development faster and more enjoyable. This can significantly speed up the process of building APIs.
 - Rich Documentation: Laravel provides comprehensive documentation, making it easy for developers to get started and find solutions to issues quickly.
@@ -15,11 +15,11 @@ Why use Laravel
 - Eloquent ORM: Laravel's Eloquent ORM (Object-Relational Mapping) is a powerful tool for interacting with databases. It simplifies database queries and relationships, making it easy to interact with your data models.
 - Middleware: Laravel includes middleware for handling cross-cutting concerns, such as authentication, authorization, and logging. This is useful for API endpoints where you might want to apply global filters or authentication checks.
 
-Why use Livewire
+<strong>Why use Livewire</strong>
 - Livewire is a full-stack framework for Laravel that makes building dynamic interfaces simple, without leaving the comfort of Laravel.
 - Livewire allows Laravel developers to write front-end code in PHP, which is then compiled into JavaScript and HTML. This means that developers can create interactive, real-time user interfaces without the need for complex JavaScript frameworks. This tight integration results in cleaner code, easier maintenance, and a more streamlined development process.
 
-To setup the project simply follow steps below:
+<strong>To setup the project simply follow steps below:</strong>
 - Clone or download the repo : https://github.com/seskie-web/Users-client.git
 - Rename .env.example to .env
 - Update the database connection string on the renamed .env file to point to your local db
