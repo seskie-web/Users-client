@@ -1,7 +1,13 @@
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-<strong>Technologies used: Laravel and Livewire</strong>
+
+<strong>Technologies used: Laravel and Laravel Livewire</strong>
+
+Links to technologies used
+
+- https://laravel.com/
+- https://livewire.laravel.com/
 
 <strong>Why use Laravel</strong>
 - Laravel is a popular PHP framework that is widely used for web application development, including building APIs.
