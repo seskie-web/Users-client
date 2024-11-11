@@ -25,6 +25,7 @@ To setup the project simply follow steps below:
     - DB_USERNAME=seskie  
     - DB_PASSWORD=seskiev
 - Run command: composer update to download the needed packages by the framework
+- Run command: npm install to install node modules
 - Set permissions on the project to 755 or 777 since it's a local project, for detailed instructions please refer to: https://www.hostinger.com/tutorials/how-to-install-laravel-on-ubuntu
 - Run command: php artisan migrate to run the database migrations, the migration command will create some default tables needed by laravel to run properly, the database migration files can be found on appname/database/migrations/
 - Run command: php artisan serve to start the client server or setup apache vhost, which will run on http://127.0.0.1:8000
